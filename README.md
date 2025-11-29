@@ -1,2 +1,0 @@
-# ppurc
-proyecto prototipico
