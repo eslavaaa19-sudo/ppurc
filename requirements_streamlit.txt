@@ -1,0 +1,6 @@
+streamlit-folium
+folium
+requests
+pandas
+numpy
+watchdog
